@@ -42,8 +42,9 @@
        4.  [vue-cli官方文档](https://cli.vuejs.org/zh/)
 10. React
     1. 也是要掌握的前端框架
-    2. [react和jquery比较](https://www.cnblogs.com/huyanluanyu/p/10156473.html)
-    3. [ReactNative中文网](https://reactnative.cn/)
+    2. [react官方网站](https://react.docschina.org/)
+    3. [react和jquery比较](https://www.cnblogs.com/huyanluanyu/p/10156473.html)
+    4. [ReactNative中文网](https://reactnative.cn/)
 
 11. [前端模板引擎与后端模板引擎扫盲](https://www.jianshu.com/p/953c08602112)
     1. [前端模板引擎,pug(原名jade)](https://www.cnblogs.com/xiaohuochai/p/7222227.html)
@@ -222,6 +223,7 @@
    3. taro
       1. https://taro.aotu.io/
    4. [小程序免费后台和接口](https://admin.it120.cc/#/dashboard)
+   5. [github上小程序开发资源总汇](https://github.com/justjavac/awesome-wechat-weapp)
 5. 企业中后台框架
    1. [Ant Design of Vue](https://vue.ant.design/docs/vue/introduce-cn/)
       1. [Ant Design react介绍](https://zhuanlan.zhihu.com/p/32771546)
@@ -479,3 +481,6 @@ You call Library, Framework calls you
 
 ### 36. 脚本
 > 所谓脚本（script）。意思是各种api的集合，按照你的想法组合成你要的功能。从更大的角度来看，一个脚本可以看做一个单独的功能模块。
+
+### 37.gitHub大神
+> 上面大神真多，也难怪，全球闻名。我把自己账号下的仓库`fork`大神的代码都删了，这删掉的大神的代码都在`star`里做记录
