@@ -80,17 +80,25 @@
 
 
 18. [vue-resource简介](http://www.cnblogs.com/goloving/p/8665421.html%20)
-19. Nuxt.js
+    1.  网友关于vue应用里的请求库对比--[ajax和axios、fetch的区别](https://www.jianshu.com/p/8bc48f8fde75)
+    2.  [Vue基础知识之vue-resource和axios](https://www.cnblogs.com/Juphy/p/7073027.html)
+
+19. Axios
+    1.  [Axios--中文文档](http://www.axios-js.com/)
+    2.  [vue中使用axios最详细教程--网友博客文章](https://www.cnblogs.com/nogodie/p/9853660.html)
+    3.  [vue中Axios的封装和API接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
+
+20. Nuxt.js
     1.  [Nuxt.js,vue服务端渲染入门](https://segmentfault.com/a/1190000013139139)
     2.  [网友博客，Nuxt框架实战](https://www.cnblogs.com/buzhiqianduan/p/7922525.html)
 
-20. 除了`Python`还有`NodeJs`
+21. 除了`Python`还有`NodeJs`
 
 
-21. [CSS工具--postCss](https://www.postcss.com.cn/)
+22. [CSS工具--postCss](https://www.postcss.com.cn/)
     1.  [在线Autoprefixer](http://autoprefixer.github.io/)  
 
-22. 极客时间
+23. 极客时间
     1.  深入浅出计算机组成原理
     2.  技术管理36讲
     3.  重学前端
@@ -100,42 +108,42 @@
     7.  白话法律42讲
     8.  左耳听风
 
-23. 编程范式
+24. 编程范式
     1. [网友文章--编程范式](https://www.jianshu.com/p/848abe46da99)
-24. 代码重构
+25. 代码重构
     1.  [网友文章-代码重构小结](https://www.jianshu.com/p/e9cd50afff5f)
-25. NodeJS
+26. NodeJS
     1. [NodeJS中文文档](http://nodejs.cn/)
     2. [Node入门--电子书](https://www.nodebeginner.org/index-zh-cn.html)
     3. [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/zh-CN/docs/Learn/Server-side/Express_Nodejs)
 
-26. Flutter
+27. Flutter
     1. [Flutter官网](https://flutter.dev/)
     2. [Flutter中文网](https://flutterchina.club/)
     3. [Flutter实战--开源电子书](https://book.flutterchina.club/)
     4. 极客时间也出了`Flutter`入门专栏
 
-27. Ionic
+28. Ionic
     1. [Ionic官网](https://ionicframework.com/)
     2.  [Ionic官方文档](https://ionicframework.com/docs) 
         1.  貌似已经支持`Vue`和`React`了
 
-28. Weex
+29. Weex
     1. [Weex官方网站](https://weex.apache.org/zh/)
     2. [Weex官方文档](https://weex.apache.org/zh/guide/introduction.html?spm=a2c7j.-zh-.0.0.45dac8eeBQpZdC)
 
-29. 快应用
+30. 快应用
     1. [快应用官方网站](https://www.quickapp.cn/)
        1. 貌似这个技术不火，跟小程序没得比
 
-30. 前端图表库
+31. 前端图表库
     1.  [Echarts](https://echarts.baidu.com/)
     2.  [Antv](https://antv.alipay.com/zh-cn/index.html#__products)
     3.  [Chartjs](https://www.chartjs.org/)
         1.  [Chartjs--中文网](http://chartjs.cn/)
     4. [Highcharts](https://www.highcharts.com.cn/)
 
-31. 抓包工具
+32. 抓包工具
     1.  Chromeka开发者工具
     2.  firefox开发者工具
     3.  Fidder抓包
@@ -146,23 +154,23 @@
     4.  wireshark
     5.  xshell(服务器控制软件)
         1.  [中文官网](http://www.xshellcn.com/)
-32. 面向对象编程
+33. 面向对象编程
     1. [网友博文--面向对象三个特征](https://www.cnblogs.com/autumn001/p/9036148.html)
-33. Go语言
+34. Go语言
     1.  [官网](https://golang.google.cn/)
     2.  [官网--中文](https://go-zh.org/)
-34. Vim
+35. Vim
     1.  [Vim入门](https://www.jianshu.com/p/5cbbac75f228)
 
-35. 浏览器工作原理
+36. 浏览器工作原理
     1.  [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
-36. nodeJS--简单服务器--不是http-server模块
+37. nodeJS--简单服务器--不是http-server模块
     1.  https://blog.csdn.net/u013553529/article/details/57646352
 
-37. 服务器性能提升
+38. 服务器性能提升
     1. [浅谈如何提高网站的并发量(性能)](https://www.cnblogs.com/Rglin/p/10963643.html)
-38. 知识点：“低耦合，高内聚”
+39. 知识点：“低耦合，高内聚”
     1. [3分钟Tips：用大白话告诉你什么是低耦合|高内聚](https://blog.csdn.net/qq_39521554/article/details/79489180)
 ---
 ##  WEB 开发文档
