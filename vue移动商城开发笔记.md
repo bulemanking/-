@@ -24,3 +24,12 @@
 > 后台返回数据中 response里面 永远是 response.data.data,注意有两个data
 > 有时候是自己手误而出现了bug.不管怎么说，如果调试接口功能的时候第一反应永远应该是查看 请求面板
 > 新商城首页已经不算是个麻雀项目了，比较复杂，用心做这一个，搞懂。作为自己的旗舰项目
+
+---
+[Vue axios 给开发环境和生产环境配置不同的接口地址](https://blog.csdn.net/u014054437/article/details/82970725)
+[vue通信、传值的多种方式（详细）](https://blog.csdn.net/qq_35430000/article/details/79291287)
+[浅谈Vue中组件传值的几种方式](https://www.cnblogs.com/qhya/p/10584312.html)
+[vue路由传参的三种基本方式](https://segmentfault.com/a/1190000012393587)
+
+---
+> `VUE ui`,vue-cli的图形化操作界面。本质上是vue官方提供的更方便人性化的操作方式。虽然程序员应该适应命令行操作，但是有了这个，更方便，提高生产力的工具，一定要用。
