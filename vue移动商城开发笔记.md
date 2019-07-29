@@ -33,3 +33,43 @@
 
 ---
 > `VUE ui`,vue-cli的图形化操作界面。本质上是vue官方提供的更方便人性化的操作方式。虽然程序员应该适应命令行操作，但是有了这个，更方便，提高生产力的工具，一定要用。
+
+---
+> 框架的API文档：
+> 特点是：知识点繁杂，多，难度低
+> 对于这一类API文档，操作方式是当做手册，用的时候查询。
+
+---
+> 以下摘自 阮一峰老师《ECMAScript入门》
+[export default命令](http://es6.ruanyifeng.com/#docs/module#export-default-%E5%91%BD%E4%BB%A4)
+```
+// 第一组
+export default function crc32() { // 输出
+  // ...
+}
+
+import crc32 from 'crc32'; // 输入
+
+// 第二组
+export function crc32() { // 输出
+  // ...
+};
+
+import {crc32} from 'crc32'; // 输入
+
+上面代码的两组写法，第一组是使用export default时，对应的import语句不需要使用大括号；第二组是不使用export default时，对应的import语句需要使用大括号。
+
+export default命令用于指定模块的默认输出。显然，一个模块只能有一个默认输出，因此export default命令只能使用一次。所以，import命令后面才不用加大括号，因为只可能唯一对应export default命令。
+```
+---
+### 项目难点总结
+1. `props`和`data`:
+   1. [vue官网API文档中的比较](https://cn.vuejs.org/v2/api/#data)
+   2. 共同点：
+      1. 都是注册新的变量
+      2. 在脚本中都可以用`this.变量名`访问到
+   3. 不同点：
+      1. 设置目的不一样，`data`是组件中注册的变量，主要供当前组件初始化的时候使用
+      2. `props`是子组件中注册专门用来让父组件传递数据给子组件用的
+2. 配置开发环境跨域，axios域代理，解决axios跨域问题
+   1. 主要是两个文件里的配置代码：`vue.config.js`和`request.js`
