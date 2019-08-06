@@ -89,8 +89,9 @@
     3.  [vue中Axios的封装和API接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
 
 20. Nuxt.js
-    1.  [Nuxt.js,vue服务端渲染入门](https://segmentfault.com/a/1190000013139139)
-    2.  [网友博客，Nuxt框架实战](https://www.cnblogs.com/buzhiqianduan/p/7922525.html)
+    1.  [Nuxt.js--官网](https://zh.nuxtjs.org/)
+    2.  [Nuxt.js,vue服务端渲染入门](https://segmentfault.com/a/1190000013139139)
+    3.  [网友博客，Nuxt框架实战](https://www.cnblogs.com/buzhiqianduan/p/7922525.html)
 
 21. 除了`Python`还有`NodeJs`
 
@@ -172,6 +173,9 @@
     1. [浅谈如何提高网站的并发量(性能)](https://www.cnblogs.com/Rglin/p/10963643.html)
 39. 知识点：“低耦合，高内聚”
     1. [3分钟Tips：用大白话告诉你什么是低耦合|高内聚](https://blog.csdn.net/qq_39521554/article/details/79489180)
+40. js小技巧
+    1. [js数组：二维变一维](https://www.cnblogs.com/EnSnail/p/9762764.html)
+41. [如何选定搭建个人独立博客工具](https://www.jeffjade.com/2019/07/29/156-vuepress-hexo-jekyll-ghost-gitbook-hugo-solo_compare-personal-website-generator/)
 ---
 ##  WEB 开发文档
 1.  MDN web docs  
@@ -221,10 +225,14 @@
       1. 桌面端
          1. elementUI（桌面端）
          2. [网友写的桌面端UI-官网常用UI组件库](https://hongqingcao.github.io/vue-portal-webUI/#/piv)
+         3. [iView](https://www.iviewui.com/)
+         4. [vue-fullpage--插件](https://alvarotrigo.com/vue-fullpage/#page1)
       2. Mint-UI (移动端)
       3. [vux](https://vux.li/)---(移动端)
       4. [vant](https://youzan.github.io/vant/#/zh-CN/intro)---(移动端)
       5. [NUT-UI](https://nutui.jd.com/#/index)---(移动端)
+      6. [BetterScroll 2.x](https://better-scroll.github.io/docs/zh-CN/)---移动端滚动插件
+         1. [BS作者知乎文章--当 better-scroll遇见Vue](https://zhuanlan.zhihu.com/p/27407024)
 4. 微信小程序
    1. MpVue
       1. http://mpvue.com/mpvue/quickstart/
