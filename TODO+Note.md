@@ -176,6 +176,11 @@
 40. js小技巧
     1. [js数组：二维变一维](https://www.cnblogs.com/EnSnail/p/9762764.html)
 41. [如何选定搭建个人独立博客工具](https://www.jeffjade.com/2019/07/29/156-vuepress-hexo-jekyll-ghost-gitbook-hugo-solo_compare-personal-website-generator/)
+42. 接口文档管理平台
+    1.  [EasyApi](https://www.easyapi.com/)
+    2.  [网易的NEI](https://nei.netease.com/)
+    3.  [eoLinker](https://www.eolinker.com/#/?status=link-jump)
+    4.  [SosoApi](http://www.sosoapi.com/)
 ---
 ##  WEB 开发文档
 1.  MDN web docs  
