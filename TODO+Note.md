@@ -181,6 +181,9 @@
     2.  [网易的NEI](https://nei.netease.com/)
     3.  [eoLinker](https://www.eolinker.com/#/?status=link-jump)
     4.  [SosoApi](http://www.sosoapi.com/)
+43. sourceTree
+    1.  官网下载最新安装包
+    2.  [跳过注册的安装方法](https://www.cnblogs.com/diyishijian/p/6726792.html)
 ---
 ##  WEB 开发文档
 1.  MDN web docs  
