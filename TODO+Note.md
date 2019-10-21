@@ -45,6 +45,7 @@
     2. [react官方网站](https://react.docschina.org/)
     3. [react和jquery比较](https://www.cnblogs.com/huyanluanyu/p/10156473.html)
     4. [ReactNative中文网](https://reactnative.cn/)
+    5. [技术胖--react入门视频](https://jspang.com/posts/2017/01/11/all-video-list.html)
 
 11. [前端模板引擎与后端模板引擎扫盲](https://www.jianshu.com/p/953c08602112)
     1. [前端模板引擎,pug(原名jade)](https://www.cnblogs.com/xiaohuochai/p/7222227.html)
