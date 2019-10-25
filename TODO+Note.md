@@ -239,8 +239,9 @@
       2. Mint-UI (移动端)
       3. [vux](https://vux.li/)---(移动端)
       4. [vant](https://youzan.github.io/vant/#/zh-CN/intro)---(移动端)
-      5. [NUT-UI](https://nutui.jd.com/#/index)---(移动端)
-      6. [BetterScroll 2.x](https://better-scroll.github.io/docs/zh-CN/)---移动端滚动插件
+      5. [Cube UI](https://didi.github.io/cube-ui/#/zh-CN)---(移动端)
+      6. [NUT-UI](https://nutui.jd.com/#/index)---(移动端)
+      7. [BetterScroll 2.x](https://better-scroll.github.io/docs/zh-CN/)---移动端滚动插件
          1. [BS作者知乎文章--当 better-scroll遇见Vue](https://zhuanlan.zhihu.com/p/27407024)
 4. 微信小程序
    1. MpVue
@@ -555,3 +556,7 @@ You call Library, Framework calls you
 > `vue`根本还是数据流，首先理解需求，画出软件原型草稿，根据原型想象出数据是怎样流动的，然后查询文档，查看相关api,开发就是这么简单。vue官方文档十分详尽
 ### 46. 为什么要做项目
 > 做项目，能让你的知识有了一个具体的目标，就像拳击一样，有了出拳的理由和攻击地点，通过做项目实战，技术有了，合作能力有了，项目经验也就有了。在项目中，你能发现很多问题，为了解决一切这些影响项目完成的障碍，就给了你一个思考的方向。
+
+### 47. 写程序
+> 就我个人而言，我比较讨厌“码农”，“程序猿”这种略有调侃的称呼的。我更喜欢“某某工程师”这种称呼
+> 如果单纯的就写代码而言，其实还是蛮有乐趣的。但是一旦有了任务和工作。除了挣钱的动力。其他就没有啥了。
