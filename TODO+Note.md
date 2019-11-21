@@ -619,3 +619,7 @@ You call Library, Framework calls you
 ### 49. 写博客
 
 1. [[BetterExplained]为什么你应该（从现在开始就）写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
+
+### 50. 关于`事件`
+
+1. `事件`是`方法`和另一个`方法`之间的联系者。也就是说事件的本质是一种通讯机制，就像接口是不同系统之间的通讯机制，事件是不同操作之间的通讯机制。
